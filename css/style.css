@@ -12,6 +12,7 @@ header {
 #content {
 	width: 1120px;
 	margin:0 auto;
+	box-shadow: black 0px 6px 16px
 }
 a {
 	text-decoration: none;
@@ -151,7 +152,6 @@ footer {
 	background: #62647d;
 	width: 1120px;
     margin: 0 auto;
-    box-shadow: black 0px 6px 16px
 }
 .interior .articol {
 	width: 500px;
@@ -170,7 +170,6 @@ footer {
     margin: 0 auto;
     height: 280px;
     background: #30313e;
-    box-shadow: black 0px 6px 16px
 }
 footer .joinus {
 	width: 1120px;
