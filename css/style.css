@@ -384,7 +384,7 @@ section {
   .modal button {
 	align-self: flex-end;
 	margin: 0.5rem;
-		padding: 1rem;
+		padding: 1rem 2.5rem;
 		color: #ff0055;
 		font: inherit;
 		border: none;
