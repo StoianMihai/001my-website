@@ -396,7 +396,7 @@ section {
 	margin: 0px auto;
   }
   .modal .formular input {
-    width: 90%;
+    width: 100%;
     padding: 8px 5px;
     margin: 4px 0;
     background: #ededed;
