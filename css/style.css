@@ -359,7 +359,7 @@ section {
   }
 .modal {
 	position: fixed;
-	top: 5vh;
+	top: 2vh;
 	left: 18%;
     width: 63%;
 	z-index: 99999;
