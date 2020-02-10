@@ -43,7 +43,7 @@ function presentInfoModal(event) {
   `;
   const closeButton = document.createElement('button');
   closeButton.addEventListener('click', hideInfoModal);
-  closeButton.textContent = 'Okay';
+  closeButton.textContent = 'Close';
   infoModal.appendChild(closeButton);
   document.body.appendChild(infoModal);
 }
