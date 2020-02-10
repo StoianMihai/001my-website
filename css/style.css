@@ -356,13 +356,8 @@ select option {
 #content section .img-r img {
   width: 420px;
 }
-section {
-  margin: 0 0 2rem 0;
-  padding: 2rem;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
-  background: white;
-  border-radius: 10px;
-}
+
+
 .modal {
   position: fixed;
   top: 2vh;
